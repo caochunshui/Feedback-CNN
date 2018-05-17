@@ -2,6 +2,10 @@
 
 The code is written in PyTorch, very simple to understand.
 
+Requirement:
+- Python 3
+- Pytorch 0.4.0
+
 Currently, there are still bugs in the feedback part.
 
 - images: storing exmaplar images
