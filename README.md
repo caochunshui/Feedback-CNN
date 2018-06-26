@@ -16,11 +16,16 @@ open the ipython notebooks with ``jupyter notebook'', open vgg_fr.ipynb or vgg_f
 If you run vgg_fsp.ipynb without modification of code, you are supposed to see below visualization:
 
 Input image:
-![](figure/image.png) 
+
+<img src="figure/image.png" width="100">
+
 Image gradient with respect to the target label:
-![](figure/ff.png) 
+
+<img src="figure/ff.png" width="100">
+
 Image gradient with respect to the target label after 4 iterations of feedback selective pruning:
-![](figure/fb_1.png) ![](figure/fb_2.png) ![](figure/fb_3.png) ![](figure/fb_4.png)
+
+<img src="figure/fb_1.png" width="100"> <img src="figure/fb_2.png" width="100"> <img src="figure/fb_3.png" width="100"> <img src="figure/fb_4.png" width="100">
 
 ### File explanation:
 
