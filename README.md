@@ -10,6 +10,18 @@ The code is an implementation of Feedback Convolutional Neural Network for Visua
 
 open the ipython notebooks with ``jupyter notebook'', open vgg_fr.ipynb or vgg_fsp.ipynb, these are the two main files for demonstrate feedback idea.
 
+
+### How it looks:
+
+If you run vgg_fsp.ipynb without modification of code, you are supposed to see below visualization:
+
+Input image:
+![](image.png) 
+Image gradient with respect to the target label:
+![](ff.png) 
+Image gradient with respect to the target label after 4 iterations of feedback selective pruning:
+![](fb_1.png) ![](fb_2.png) ![](fb_3.png) ![](fb_4.png)
+
 ### File explanation:
 
 - vgg_fr.ipynb: the main file that defines the vgg feedback network with the feedback recovering mechanism and run a feedback visualization on examplar images.
