@@ -17,15 +17,15 @@ If you run vgg_fsp.ipynb without modification of code, you are supposed to see b
 
 Input image:
 
-<img src="figure/image.png" width="100">
+<img src="figure/image.png" width="256">
 
 Image gradient with respect to the target label:
 
-<img src="figure/ff.png" width="100">
+<img src="figure/ff.png" width="256">
 
 Image gradient with respect to the target label after 4 iterations of feedback selective pruning:
 
-<img src="figure/fb_1.png" width="100"> <img src="figure/fb_2.png" width="100"> <img src="figure/fb_3.png" width="100"> <img src="figure/fb_4.png" width="100">
+<img src="figure/fb_1.png" width="256"> <img src="figure/fb_2.png" width="256"> <img src="figure/fb_3.png" width="256"> <img src="figure/fb_4.png" width="256">
 
 ### File explanation:
 
