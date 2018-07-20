@@ -12,7 +12,7 @@ There is also a Caffe implementation, please check the [Caffe version](https://g
 
 open the ipython notebooks with `jupyter notebook`
 
-open `vgg_fr.ipynb` or `vgg_fsp.ipynb`, these are the two main files for demonstrate feedback idea.
+then open `vgg_fr.ipynb` or `vgg_fsp.ipynb`, these are the two main files for demonstrate feedback idea.
 
 
 ### How it looks:
