@@ -10,9 +10,7 @@ There is also a Caffe implementation, please check the [Caffe version](https://g
 
 ### How to run:
 
-open the ipython notebooks with 
-
-`jupyter notebook`
+open the ipython notebooks with `jupyter notebook`
 
 open `vgg_fr.ipynb` or `vgg_fsp.ipynb`, these are the two main files for demonstrate feedback idea.
 
