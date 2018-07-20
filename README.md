@@ -39,3 +39,15 @@ Image gradient with respect to the target label after 4 iterations of feedback s
 - imagenet1000_clsid_to_human.txt: storing image net 1000 class names, for visualization and understanding purpose
 - test/simple_test.ipynb: test for a simple feedback network, using a simple fully connected structure
 - test/vgg_test.ipynb: test for the loading of a pretrained vgg network, then check the weights copying from pretrained network to a new defined network interface
+
+### Citation
+
+Please consider citing in your publications if it helps your research:
+
+@inproceedings{cao2015look,
+  title={Look and think twice: Capturing top-down visual attention with feedback convolutional neural networks},
+  author={Cao, Chunshui and Liu, Xianming and Yang, Yi and Yu, Yinan and Wang, Jiang and Wang, Zilei and Huang, Yongzhen and Wang, Liang and Huang, Chang and Xu, Wei and others},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={2956--2964},
+  year={2015}
+}
