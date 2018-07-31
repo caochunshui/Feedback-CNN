@@ -1,6 +1,6 @@
 # Feedback Convolutional Neural Network for Visual Localization and Segmentation
 
-The code is an implementation of Feedback Convolutional Neural Network for Visual Localization and Segmentation. The code is written in [PyTorch](https://pytorch.org/), very simple to understand.
+The code is an implementation of [Feedback Convolutional Neural Network for Visual Localization and Segmentation](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Cao_Look_and_Think_ICCV_2015_paper.pdf). The code is written in [PyTorch](https://pytorch.org/), very simple to understand.
 
 There is also a [Caffe implementation](https://github.com/caochunshui/FeedbackCNN-demo), please check it if you use Caffe and Matlab.
 
